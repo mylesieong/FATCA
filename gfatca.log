@@ -1,0 +1,7 @@
+2016-09-24 22:19:42 INFO  Launcher:14 - Launcher start.
+2016-09-24 22:19:42 INFO  Launcher:16 - Launcher end.
+2016-09-24 22:26:34 INFO  Launcher:16 - Launcher start.
+2016-09-24 22:26:34 INFO  ClassPathXmlApplicationContext:456 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1cf4f579: startup date [Sat Sep 24 22:26:34 CST 2016]; root of context hierarchy
+2016-09-24 22:26:34 INFO  XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [SpringBeans.xml]
+2016-09-24 22:26:35 INFO  DefaultListableBeanFactory:555 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@63d4e2ba: defining beans [helloBean]; root of factory hierarchy
+2016-09-24 22:26:35 INFO  Launcher:20 - Launcher end.

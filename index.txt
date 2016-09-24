@@ -1,0 +1,8 @@
+INDEX>
+1. 2016-9-24 Build the project file. This utility support fatca document preparation (update schema till 2016)
+2. User guide:
+  a) >gfatca parse {location-of-schema}
+  b) >gfatca convert {location-of-schema} {modified-excel-file}
+  c) >gfatca validate {location-of-schema} {gfatca-gen-xml}
+  d) >gfatca sign {location-of-schema} {gfatca-gen-xml}
+  e) >gfatca package {location-of-schema} {gfatca-gen-xml}
